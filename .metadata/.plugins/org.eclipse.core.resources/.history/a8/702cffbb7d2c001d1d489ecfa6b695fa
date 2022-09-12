@@ -1,0 +1,17 @@
+
+public class Week2ConditionalsLoops {
+
+	public static void main(String[] args) {
+		//Create a variable and assign it a value of 14
+		int age = 14;
+		//Print the boolean expression age >=16 to the console and note the results
+		//Prints false on the terminal since int age is 14
+		System.out.println(age >=16);
+		//Change the value of age to 18 and run it again.
+		age = 18;
+		System.out.println(age >=16);
+
+
+	}
+
+}
